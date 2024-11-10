@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "movie": "^1.0.1",
+    "trailer": "^0.10.0"
+  }
+}
